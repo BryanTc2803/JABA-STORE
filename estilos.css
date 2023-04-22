@@ -2,7 +2,7 @@
 header {
 	background-color: #FF69B4;
 	color: #fff;
-	padding: 50px;
+	padding: 60px;
 }
 
 /* Estilos para la navegación */
@@ -33,7 +33,7 @@ nav ul li a:hover {
 
 /* Estilos para el contenido principal */
 main section {
-	margin-bottom: 20px;
+	margin-bottom: 30px;
 }
 
 main section h2 {
