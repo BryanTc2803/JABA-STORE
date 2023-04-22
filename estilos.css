@@ -2,7 +2,7 @@
 header {
 	background-color: #FF69B4;
 	color: #fff;
-	padding: 20px;
+	padding: 40px;
 }
 
 /* Estilos para la navegación */
@@ -64,13 +64,6 @@ footer {
     height: auto;
   }
   
-
-  footer a {
-        font-size: 40px; /* Aumenta el tamaño de fuente del enlace */
-        display: block; /* Convierte el enlace en un bloque */
-        width: 100%; /* Ocupa todo el ancho disponible */
-        text-align: center; /* Centra el texto del enlace */
-      }
 
 
 
