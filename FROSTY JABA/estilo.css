@@ -18,6 +18,7 @@ header{
     color: blueviolet;
     font-size: 30px;
     border-radius: 50px;
+    
 }
 nav{
     background-color:rgb(168, 245, 255);
@@ -69,6 +70,44 @@ h1{
 
 .enlace{
     text-decoration: none;
-    text-align: end;
     color: blueviolet;
+}
+
+#Contactos{
+    background-color:rgb(168, 245, 255);
+    height: 50px;
+    color: blueviolet;
+    border-radius: 50px;
+    font-size: 35px;
+    border-bottom: 5px solid plum;
+    text-align: center;
+    text-decoration: none;
+}
+#Contactano{
+    background-color:rgb(168, 245, 255);
+    height: 50px;
+    color: blueviolet;
+    border-radius: 50px;
+    font-size: 35px;
+    border-bottom: 5px solid plum;
+    text-align: center;
+}
+#Contactanos{
+    background-color:rgb(168, 245, 255);
+    height: 50px;
+    color: blueviolet;
+    border-radius: 50px;
+    font-size: 35px;
+    border-bottom: 5px solid plum;
+    text-align: center;
+}
+#F{
+    background-color:rgb(168, 245, 255);
+    height: 50px;
+    color: blueviolet;
+    border-radius: 50px;
+    font-size: 35px;
+    border-bottom: 5px solid plum;
+    text-align: center;
+    text-decoration: none;
 }
